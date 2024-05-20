@@ -23,5 +23,5 @@ La mayoría de los cánceres de tiroides no provocan ningún signo o síntoma en
 #### Causas:
 El cáncer de tiroides comienza cuando las células en la tiroides desarrollan cambios en su ADN. El ADN de una célula contiene instrucciones que le indican a una célula qué hacer. Los cambios les indican a las células que crezcan y se multipliquen rápidamente.  Las células que se acumulan forman una masa que se llama tumor.
 El tumor puede crecer hasta invadir tejidos cercanos y puede propagarse (hacer metástasis) hacia los ganglios linfáticos del cuello. 
-En la mayoría de los cánceres de tiroides, no está claro qué es lo que causa los cambios en el ADN que causan el cáncer.
-**FUENTE:**https://www.mayoclinic.org/es/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161
+En la mayoría de los cánceres de tiroides, no está claro qué es lo que causa los cambios en el ADN que causan el cáncer. <br>
+**FUENTE:** https://www.mayoclinic.org/es/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161
