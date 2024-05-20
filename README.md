@@ -14,12 +14,12 @@ En nuestro TP decidimos crear una red que predice la posibilidad de padecer canc
 El cáncer de tiroides es una proliferación de células que comienza en la glándula tiroidea, una glándula en forma de mariposa que se encuentra en la base del cuello, justo debajo de la nuez de Adán. La glándula tiroidea produce hormonas que regulan el ritmo cardíaco, la presión arterial, la temperatura corporal y el peso.
 #### Sintomas:
 La mayoría de los cánceres de tiroides no provocan ningún signo o síntoma en las primeras etapas de la enfermedad. A medida que el cáncer de tiroides crece, es posible que provoque lo siguiente:
-_ Un bulto (nódulo) que se puede sentir a través de la piel del cuello
-_ Sensación de que los cuellos ajustados de las camisas aprietan demasiado
-_ Cambios en la voz, lo que incluye una ronquera cada vez mayor
-_ Dificultad para tragar
-_ Hinchazón de los ganglios linfáticos en el cuello
-_ Dolor en el cuello y en la garganta
+- Un bulto (nódulo) que se puede sentir a través de la piel del cuello
+- Sensación de que los cuellos ajustados de las camisas aprietan demasiado
+- Cambios en la voz, lo que incluye una ronquera cada vez mayor
+- Dificultad para tragar
+- Hinchazón de los ganglios linfáticos en el cuello
+- Dolor en el cuello y en la garganta
 #### Causas:
 El cáncer de tiroides comienza cuando las células en la tiroides desarrollan cambios en su ADN. El ADN de una célula contiene instrucciones que le indican a una célula qué hacer. Los cambios les indican a las células que crezcan y se multipliquen rápidamente.  Las células que se acumulan forman una masa que se llama tumor.
 El tumor puede crecer hasta invadir tejidos cercanos y puede propagarse (hacer metástasis) hacia los ganglios linfáticos del cuello. 
