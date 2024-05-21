@@ -8,7 +8,7 @@ Una red neuronal es un modelo matemático con múltiples capas que se utilizan p
 
 ## Nuestro trabajo
 En nuestro TP decidimos crear una red que predice la posibilidad de padecer cáncer de tiroides en base a determinados estudios realizados en personas con problemas de tiroides en un período de 10 años. La red está basada en la información de un csv de 17 columnas, las cuales se detallan y explican en el archivo del TP. Este estudio fue realizado en un total de 384 personas, las cuales fueron examinadas y controladas por 10 años para saber el avance de la enfermedad y la aparición de síntomas que pueden indicar la presencia de cáncer de tiroides.
-**###¿Qué es el cancer de tiroides?**
+**### ¿Qué es el cancer de tiroides?**
 El cáncer de tiroides es una proliferación de células que comienza en la glándula tiroidea, una glándula en forma de mariposa que se encuentra en la base del cuello, justo debajo de la nuez de Adán. La glándula tiroidea produce hormonas que regulan el ritmo cardíaco, la presión arterial, la temperatura corporal y el peso.
 #### Síntomas:
 La mayoría de los cánceres de tiroides no provocan ningún signo o síntoma en las primeras etapas de la enfermedad. A medida que el cáncer de tiroides crece, es posible que provoque lo siguiente:
