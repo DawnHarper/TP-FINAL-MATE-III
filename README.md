@@ -25,4 +25,4 @@ El tumor puede crecer hasta invadir tejidos cercanos y puede propagarse (hacer m
 En la mayoría de los cánceres de tiroides, no está claro qué es lo que causa los cambios en el ADN que causan el cáncer. <br>
 **FUENTE:** https://www.mayoclinic.org/es/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161
 
-Link del data set utilizado: https://www.kaggle.com/datasets/jainaru/thyroid-disease-data
+**Link del data set utilizado:** https://www.kaggle.com/datasets/jainaru/thyroid-disease-data
