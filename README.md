@@ -7,22 +7,22 @@ Una red neuronal es un modelo matemático con múltiples capas que se utilizan p
 
 
 ## Nuestro trabajo
-En nuestro TP decidimos crear una red que predice la posibilidad de padecer cáncer de tiroides en base a determinados estudios realizados en personas con problemas de tiroides en un período de 10 años. La red está basada en la información de un csv de 17 columnas, las cuales se detallan y explican en el archivo del TP. Este estudio fue realizado en un total de 384 personas, las cuales fueron examinadas y controladas por 10 años para saber el avance de la enfermedad y la aparición de síntomas que pueden indicar la presencia de cáncer de tiroides.
+En nuestro TP decidimos crear una red que predice la posibilidad de padecer COVID-19 en base a determinados estudios realizados. La red está basada en la información de un csv de 21 columnas, las cuales se detallan y explican en el archivo del TP. No todas las columnas se utilizan ya que solo tomamos las de nuestro interes.
 
-### ¿Qué es el cáncer de tiroides?
-El cáncer de tiroides es una proliferación de células que comienza en la glándula tiroidea, una glándula en forma de mariposa que se encuentra en la base del cuello, justo debajo de la nuez de Adán. La glándula tiroidea produce hormonas que regulan el ritmo cardíaco, la presión arterial, la temperatura corporal y el peso.
+### ¿Qué es el COVID-19?
+La COVID-19, también llamada enfermedad por coronavirus 2019, es una enfermedad causada por un virus. El virus se llama coronavirus del síndrome respiratorio agudo grave de tipo 2, o, más comúnmente, SARS-CoV-2. Comenzó a propagarse a finales de 2019 y se convirtió en una enfermedad pandémica en 2020.
 #### Síntomas:
-La mayoría de los cánceres de tiroides no provocan ningún signo o síntoma en las primeras etapas de la enfermedad. A medida que el cáncer de tiroides crece, es posible que provoque lo siguiente:
-- Un bulto (nódulo) que se puede sentir a través de la piel del cuello
-- Sensación de que los cuellos ajustados de las camisas aprietan demasiado
-- Cambios en la voz, lo que incluye una ronquera cada vez mayor
-- Dificultad para tragar
-- Hinchazón de los ganglios linfáticos en el cuello
-- Dolor en el cuello y en la garganta
+Los síntomas típicos de COVID-19 suelen aparecer entre 2 y 14 días después del contacto con el virus. Estos son algunos de los síntomas:
+- Tos seca.
+- Falta de aire.
+- Pérdida del sentido del gusto o el olfato.
+- Cansancio extremo, llamado fatiga.
+- Síntomas digestivos como malestar estomacal, vómitos o diarrea, que es cuando las heces son blandas.
+- Dolor, como dolores de cabeza y dolores corporales o musculares.
+- Fiebre o escalofríos.
+- Síntomas parecidos a los del resfriado, como congestión, secreción nasal o dolor de garganta.
 #### Causas:
-El cáncer de tiroides comienza cuando las células en la tiroides desarrollan cambios en su ADN. El ADN de una célula contiene instrucciones que le indican a una célula qué hacer. Los cambios les indican a las células que crezcan y se multipliquen rápidamente. Las células que se acumulan forman una masa que se llama tumor.
-El tumor puede crecer hasta invadir tejidos cercanos y puede propagarse (hacer metástasis) hacia los ganglios linfáticos del cuello. 
-En la mayoría de los cánceres de tiroides, no está claro qué es lo que causa los cambios en el ADN que causan el cáncer. <br>
-**FUENTE:** https://www.mayoclinic.org/es/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161
+La COVID-19 está causada por la infección por el coronavirus 2 del síndrome respiratorio agudo grave, también llamado SARS-CoV-2. El coronavirus se transmite principalmente de persona a persona. Cuando las personas con COVID-19 tosen, estornudan, respiran, cantan o hablan, su aliento puede estar infectado con el virus de la COVID-19. Es posible tener COVID-19 más de una vez. <br>
+**FUENTE:** https://www.mayoclinic.org/es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963
 
-**Link del data set utilizado:** https://www.kaggle.com/datasets/jainaru/thyroid-disease-data
+**Link del data set utilizado:** https://www.kaggle.com/datasets/hemanthhari/symptoms-and-covid-presence
